@@ -1,0 +1,26 @@
+div {
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    
+}
+
+#parágrafo1 {
+    color: gold;
+}
+
+#parágrafo2 {
+    color: blueviolet;
+}
+
+.alerta{
+    background-color: white;
+    margin: 5cm;
+}
+
+h1 {
+    border: 2px solid dodgerblue;
+}

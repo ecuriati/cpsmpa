@@ -1,0 +1,39 @@
+div {
+    background-color: red;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 5cm;
+    margin-bottom: 2cm; 
+    margin-top: 0cm
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    }
+
+#parágrafo1 {
+    color: black;
+}
+
+#parágrafo2 {
+    color: black;
+}
+
+.alerta{
+    background-color: red;
+    margin: 5cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 5cm;
+    margin-bottom: 2cm; 
+    margin-top: 0cm
+}
+
+h1 {
+    border: 2px solid black;
+}
